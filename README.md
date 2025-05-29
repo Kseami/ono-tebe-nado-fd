@@ -7,7 +7,7 @@
    ```
 2. Перейдите в папку проекта:
    ```bash
-   cd ono-tebe-nado
+   cd ono-tebe-nado-fd
    ```
 3. Установите зависимости:
    ```bash
