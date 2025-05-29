@@ -33,7 +33,7 @@
     width: 137px;
 }
 
-.header__logo-image{
+.header__logo-image {
     width: 100%;
 }
 
@@ -134,9 +134,8 @@
     color: white;
 }
 
-.bet-button{
+.bet-button {
     margin: 0;
-    padding: 0;
     font-family: 'Raleway' sans-serif;
     font-weight: 500;
     font-size: 22px;
@@ -232,7 +231,7 @@
     font-size: 20px;
     line-height: 100%;
     padding-bottom: 1px;
-    margin: 33px 40px 0; 
+    margin: 33px 40px 0px;
     display: inline-block;
     text-decoration: none;
     border-bottom: 1px solid black;
